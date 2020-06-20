@@ -1,5 +1,3 @@
-By Raj Caussy
-
 Terraform Provider for AWS
 ==================
 
